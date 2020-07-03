@@ -1,0 +1,17 @@
+Temporal Data Analysis
+
+Articles:
+
+_ https://www.researchgate.net/publication/342551647_Multi-Temporal_UAV_Data_and_Object-Based_Image_Analysis_OBIA_for_Estimation_of_Substrate_Changes_in_a_Post-Bleaching_Scenario_on_a_Maldivian_Reef
+
+
+- https://www.researchgate.net/publication/320223143_Analyzing_spatio-temporal_data_with_R_Everything_you_always_wanted_to_know_-_but_were_afraid_to_ask
+
+Tools
+
+- https://www.esri.com/about/newsroom/arcuser/working-with-temporal-data-in-arcgis/
+
+
+Books
+
+- https://spacetimewithr.org/Spatio-Temporal%20Statistics%20with%20R.pdf
